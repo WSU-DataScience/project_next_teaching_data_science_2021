@@ -3,7 +3,7 @@ Project NExT Minicourse Links
 Github: https://github.com/WSU-DataScience/project_next_teaching_data_science_2021
 Github: https://bit.ly/2VrumSC
 
-Slide link: 
+Slide link: https://bit.ly/3rQy9os
 
 
 Data Verb Content
